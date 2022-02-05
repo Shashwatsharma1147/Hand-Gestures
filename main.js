@@ -1,0 +1,1 @@
+link = "https://teachablemachine.withgoogle.com/models/sV5s2LEfu/"
