@@ -25,3 +25,14 @@ h2
 {
     text-align: center;
 }
+#result_label
+{
+    font-size: 22px;
+    font-family: cursive;
+    margin-top: 20px;
+    font-weight: bold;
+}
+#result_gesture
+{
+    font-size: 50px;
+}
